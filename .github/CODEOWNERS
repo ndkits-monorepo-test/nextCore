@@ -1,0 +1,35 @@
+# 原価
+/Genka/*
+* @ndkits-monorepo-test/Genka-reviwers
+
+# 工事
+/Koji/*
+* @ndkits-monorepo-test/Koji-reviwers
+
+# 共通
+/Kyotsu/AppsInfra/*
+* @ndkits-monorepo-test/Kyotsu/AppsInfra-reviwers
+/Kyotsu/Cloud/*
+* @ndkits-monorepo-test/Kyotsu/Cloud-reviwers
+/Kyotsu/DB/*
+* @ndkits-monorepo-test/Kyotsu/DB-reviwers
+/Kyotsu/NW/*
+* @ndkits-monorepo-test/Kyotsu/NW-reviwers
+/Kyotsu/Security/*
+* @ndkits-monorepo-test/Kyotsu/Security-reviwers
+
+# 積算
+/Sekisan/Eigyo/*
+* @ndkits-monorepo-test/Sekisan/Eigyo-reviwers
+/Sekisan/JRnishi/*
+* @ndkits-monorepo-test/Sekisan/JRnishi-reviwers
+/Sekisan/Kankyo/*
+* @ndkits-monorepo-test/Sekisan/Kankyo-reviwers
+/Sekisan/Yosan/*
+* @ndkits-monorepo-test/Sekisan/Yosan-reviwers
+
+# 社員
+/Shain/Jinzai/*
+* @ndkits-monorepo-test/Shain/Jinzai-reviwers
+/Shain/Shikaku/*
+* @ndkits-monorepo-test/Shain/Shikaku-reviwers
